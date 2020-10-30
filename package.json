@@ -1,0 +1,16 @@
+{
+  "name": "org",
+  "version": "0.0.1",
+  "license": "UNLICENSED",
+  "private": true,
+  "workspaces": {
+    "packages": [
+      "packages/*"
+    ],
+    "nohoist": [
+      "**/react-native",
+      "**/react-native/**",
+      "**/babel-loader"
+    ]
+  }
+}

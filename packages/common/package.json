@@ -1,0 +1,7 @@
+{
+  "name": "@org/common",
+  "version": "0.0.1",
+  "description": "common files for web and mobile apps",
+  "license": "UNLICENSED",
+  "private": true
+}
